@@ -10,3 +10,10 @@ html {
 body {
 	font-family: sans-serif;
 }
+
+$primary: #e6007e;
+$secondary: #2d2e83;
+$dark: $secondary;
+
+@import '../node_modules/bootstrap/scss/bootstrap';
+@import 'bd-placeholder-img';
