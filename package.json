@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"build": "sass styly/hlavni.scss styly.css",
+		"dev": "sass --watch styly/hlavni.scss styly.css"
 	},
 	"author": "",
 	"license": "ISC",
