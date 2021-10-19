@@ -24,7 +24,7 @@ Tvým úkolem bude donapojit do stránky Bootstrap a přizpůsobit jeho barvy. V
 
   - Ulož a koukni do prohlížeče. Stránka by měla být téměř celá nastaylovaná.
 
-  - Oprav posunuté popisky `Thumbnail` v dlaždicích. Naimportuj ještě soubor `bd-placeholder-img.scss`.
+  - Oprav doprava posunuté popisky `Thumbnail` v dlaždicích. Naimportuj ještě soubor `bd-placeholder-img.scss`.
 
 - Současný stav můžeš porovnat s ukázkou [zde](https://getbootstrap.com/docs/5.1/examples/album/).
 
